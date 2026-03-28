@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Demi-urge.github.io/smart-traveler-picks/sitemap.xml
